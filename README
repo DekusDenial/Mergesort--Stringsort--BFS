@@ -1,0 +1,10 @@
+1. mergesort
+	recursively sorting a list of integers, list MUST be NULL-terminated!! To test it, create your own main()!
+
+2. stringsort
+	recursively & iteratingly, sorting a list of strings, list MUST be NULL-terminated!! To test it, create your own main()!
+
+3. BFS
+	a) queue uses linked list; every state should have three moves that create path to lead to another state
+	b) using STL default queue class; every state should have three moves that create path to lead to another state
+	TO test them, link to h_bl_tree.c for given binary tree for the base, AND create your own three move functions, move1(), move2(), and move3(). Input and output are both integers.
